@@ -26,19 +26,6 @@ img {
     height: auto;
 }
 
-ul {
-    list-style: none;
-    padding: 0;
-}
-
-ul li {
-    background-color: #333;
-    color: #fff;
-    margin: 10px 0;
-    padding: 10px;
-    border-radius: 5px;
-}
-
 table {
     width: 80%;
     margin: 20px auto;

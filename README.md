@@ -15,7 +15,7 @@ The webpage includes the following elements:
 - A hyperlink to this GitHub repository containing the source code
 
 ## Usage
-To view the webpage, click [here](YOUR_GITHUB_PAGES_URL). 
+To view the webpage, click [here](https://developedbyanurag.github.io/scalable_services/). 
 
 ## Local Setup
 If you wish to run this webpage locally:

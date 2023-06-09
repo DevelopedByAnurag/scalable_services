@@ -10,7 +10,7 @@ docker push anuragbatra706/scalable_api:latest
 kubectl apply -f flask-deployment.yaml
 
 
-##### This Flask application now has the following API endpoints:
+##### This Flask application now has the following Micro Services:
 
 - /greet: Greets the specified user.
 - /save_name: Saves the name sent using a POST request to the MongoDB Atlas collection.
